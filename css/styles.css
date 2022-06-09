@@ -1,11 +1,12 @@
 body {
     background-color: aquamarine;
-    background-image: url("./images/coding-portfolio.jpeg");
 }
 h1 {
     color: blueviolet;
 font-style: oblique;
 }
 img {
-    width: 200px;
+    width: 400px;
+    border-radius: 5px;
+    text-align: right;
 }
